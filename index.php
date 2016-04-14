@@ -1,1 +1,7 @@
-index.php
+<?php
+
+function hello(){
+echo 'hello';
+}
+
+?>
